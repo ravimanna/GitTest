@@ -9,5 +9,7 @@ namespace ClassLibrary
     public class Class1
     {
         //Initial Version
+
+        //Changes for VS 2012
     }
 }
