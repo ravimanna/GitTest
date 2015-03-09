@@ -11,5 +11,7 @@ namespace ClassLibrary
         //Initial Version
 
         //Changes for VS 2012
+
+        // First local commit
     }
 }
