@@ -17,5 +17,7 @@ namespace ClassLibrary
         // More local commits
 
         // Final local commit
+
+        //Local updates in feature 1.1
     }
 }
